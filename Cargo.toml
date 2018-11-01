@@ -1,0 +1,8 @@
+[package]
+name = "watcher"
+version = "0.0.1"
+authors = ["Jürgen Legler jogihoogi@gmail.com"]
+
+[dependencies]
+notify = "^2.5.0"
+
